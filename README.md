@@ -45,8 +45,8 @@ A basic **CRM-like tool** built with the **MERN stack (MongoDB, Express.js, Reac
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/shivshankargit/Agent-Task-Distributor.git
+cd Agent-Task-Distributor-main
 ```
 
 ---
@@ -154,5 +154,6 @@ Navigate to the frontend URL in your browser — you should see the **login page
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to modify and use it for your own projects.
+
 
 
