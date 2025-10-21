@@ -151,31 +151,8 @@ Navigate to the frontend URL in your browser — you should see the **login page
 
 ---
 
-## 📁 Folder Structure
-
-```
-project-root/
-│
-├── client/                # React frontend (Vite + Tailwind)
-│   ├── src/
-│   │   ├── api/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
-│
-├── server/                # Node.js + Express backend
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── seedAdmin.js
-│   ├── server.js
-│   └── package.json
-│
-└── README.md
-```
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to modify and use it for your own projects.
+
 
