@@ -175,27 +175,7 @@ project-root/
 │
 └── README.md
 ```
-
----
-
-## 🚀 Future Improvements
-
-* Agent-specific login and dashboard  
-* Task completion tracking  
-* CSV export for reports  
-* Pagination and filtering for large datasets  
-* Role-based access control (Admin/Manager)
-
----
-
-## 👨‍💻 Author
-
-**Shiv Shankar**  
-💼 Full-Stack Developer | Focused on MERN, Backend & AI Integration  
-🔗 [LinkedIn](https://www.linkedin.com/in/) • [GitHub](https://github.com/)
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to modify and use it for your own projects.
+
